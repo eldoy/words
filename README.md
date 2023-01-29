@@ -1,6 +1,6 @@
 # Words
 
-Norwegian words finder.
+Word generator.
 
 ### Usage
 
